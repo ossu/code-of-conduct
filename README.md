@@ -79,6 +79,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 - https://gitter.im/ericdouglas
 - https://gitter.im/hanjiexi
 - https://gitter.im/eneskemalergin
+- https://gitter.im/amorriscode
 
 ## 10. License and attribution
 
