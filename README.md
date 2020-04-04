@@ -26,7 +26,6 @@ The following behaviors are expected and requested of all community members:
 *   Attempt collaboration before conflict.
 *   Refrain from demeaning, discriminatory, or harassing behavior and speech.
 *   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-*   Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ## 4. Unacceptable Behavior
 
@@ -44,7 +43,6 @@ The following behaviors are considered harassment and are **unacceptable** withi
 *   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Advocating for, or encouraging, any of the above behavior.
-*   Sustained disruption of community events, including talks and presentations.
 
 ## 5. Consequences of Unacceptable Behavior
 
@@ -52,20 +50,15 @@ Unacceptable behavior from any community member, including sponsors and those wi
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community.
 
 ## 6. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please [notify](https://gitter.im/ericdouglas) a community organizer as soon as possible.
 
-
-
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
-
 ## 7. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify OSSU with a concise description of your grievance. Your grievance will be handled by community consensus.
-
 
 
 ## 8. Scope
