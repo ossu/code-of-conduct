@@ -1,78 +1,34 @@
 ![ossu logo](http://i.imgur.com/kYYCXtC.png)
-# OSSU's Code of Conduct
 
-## 1. Purpose
+OSSU provides an environment where all learners and contributors can feel safe and welcome. This document outlines our community policies and values.
+# Rules
+* Learn and help others learn.
+* Be kind and courteous to your fellow OSSUnians.
+* Criticize ideas, not people.
+* Discuss publicly. Refrain from direct messaging people unless it is specifically requested.
+* Ask questions; don't ask to ask. There’s no need to write "Is there anyone that can help me with X?" Just ask about X.
+# Prohibitions
+* No violence or threats of violence of any kind.
+* No sexist, racist, homophobic, transphobic, or any other prejudiced or discriminatory language or actions; this includes jokes.
+* No sexual harrasment, including unwelcome sexual advances or offensive remarks about a person's sex.
+* No cursing or swearing at other people (but feel free to use curses and swears about the #$%@ code, IDE, language, hardware or physics).
+* No NSFW material. This includes nudity, gore, or any other potentially disturbing imagery.
+* No revealing another's private information against their wishes (doxxing).
+* No stalking or intimidation, online or otherwise.
+* No spamming, trolling, flaming, or other disruptions of the peace.
+* No inappropriate usernames. Moderators will change your name if it is found to be NSFW or derogatory.
+* No advocating or threatening of any of the above behaviors.
+# Reporting and Moderation
+Moderators can be emailed at mods@ossu.dev. On the OSSU Discord server, users can use @moderator to alert the mod team about an issue in a channel.
 
-A primary goal of OSSU is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+If you see any behavior that goes against the Code of Conduct, report it to the moderation team as soon as possible, either privately or publicly.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+Violation of the terms in this Code of Conduct will result in consequences that will depend on a) the severity of the violation, and b) history of violations. Possible consequences include: temporary mute, being kicked from participation, temporary or permanent banning from all future participation in the community.
 
-We invite all those who participate in one of the OSSU's initiatives to help us create safe and positive experiences for everyone.
+If you feel that you have been treated unjustly, you may contact a moderator or community organizer and explain your grievance. Your grievance will be handled by moderator consensus.
 
-## 2. Open Source Citizenship
-
-A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
-
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
-
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
-
-## 3. Expected Behavior
-
-The following behaviors are expected and requested of all community members:
-
-*   Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-*   Exercise consideration and respect in your speech and actions.
-*   Attempt collaboration before conflict.
-*   Refrain from demeaning, discriminatory, or harassing behavior and speech.
-*   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-
-## 4. Unacceptable Behavior
-
-The following behaviors are considered harassment and are **unacceptable** within our community:
-
-*   Violence, threats of violence or violent language directed against another person.
-*   Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-*   Messages in an aggressive, rude, ironic, disrespectful, slanderous, tone.
-*   Criticism on people, not ideas.
-*   Posting or displaying sexually explicit or violent material.
-*   Posting or threatening to post other people’s personally identifying information ("doxing").
-*   Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-*   Inappropriate photography or recording.
-*   Inappropriate physical contact. You should have someone’s consent before touching them.
-*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-*   Deliberate intimidation, stalking or following (online or in person).
-*   Advocating for, or encouraging, any of the above behavior.
-
-## 5. Consequences of Unacceptable Behavior
-
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community.
-
-## 6. Reporting Guidelines
-
-If you are subject to or witness unacceptable behavior, or have any other concerns, please [notify](https://gitter.im/ericdouglas) a community organizer as soon as possible.
-
-## 7. Addressing Grievances
-
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify OSSU with a concise description of your grievance. Your grievance will be handled by community consensus.
-
-
-## 8. Scope
-
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
-
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
-
-## 9. Contact info
-
-mods@ossu.dev
-
-## 10. License and attribution
-
-This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
-
-OSSU's Code of Conduct was inspired by [FrontendBR forum](https://github.com/frontendbr/forum).
+# Attribution
+Portions of this Code of Conduct were inspired by the following:
+* [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+* [Rust Lang Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+* The Previous OSSU Code of Conduct, derived from [FrontEnd BR Forum Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
